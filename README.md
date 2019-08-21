@@ -31,3 +31,8 @@ This  project  forwards  the  design  of  home  automation  and  security system
 ## Results:
 
 ## References:
+
+N.Sriskanthan and  Tan  Karand.  “Bluetooth  Based  Home  Automation System”. Journal of Microprocessors and Microsystems, Vol. 26, pp.281-289, 2002.  
+Amul Jadhav, S. Anand, Nilesh Dhangare, K.S. Wagh “Universal Mobile Application Development (UMAD) On Home Automation” Marathwada Mitra Mandal’s Institute of Technology, University of Pune, India Network and Complex Systems ISSN 2224-610X (Paper) ISSN 2225-0603 (Online) Vol 2, No.2, 2012.  
+Preville, Cherie (26 Aug 2013). "Control Your Castle: The Latest in HVAC Home Automation". ACHRNews (ACHRNews). Retrieved 15 Jun 2015.  
+
