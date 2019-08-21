@@ -26,9 +26,26 @@ This  project  forwards  the  design  of  home  automation  and  security system
 
 ## Architecture:
 
-### 
+### High Level Design:
 
-## Results:
+![]()
+
+### Hardware Description: 
+The power strip is designed and relays are connected to power strip. The home appliances are connected to the power strip. The Relays are connected to the GPIO pins of the raspberry pi.
+
+![]()
+
+### Connection Images:
+
+![]()
+
+![]()
+
+## Sample Appliance Control:
+
+![]()
+
+![]()
 
 ## References:
 
